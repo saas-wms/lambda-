@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lombda-test:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="lombda-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="lombda-test:war exploded" />
+    </root>
+  </artifact>
+</component>
